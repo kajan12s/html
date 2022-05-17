@@ -1,0 +1,13 @@
+h1{color: black;text-align: center;}
+table, td, th {
+    border: 1px solid;border-collapse:collapse;border-color: black;
+  }
+.a7{background-color: red;}
+.a6{background-color: rgb(46, 199, 7);}
+.a8{background-color: darkgoldenrod;}
+.a5{background-color: purple;}
+.a4{background-color: rgb(241, 191, 199);}
+.a1{background-color:rgb(33, 91, 167);}
+#trcolor{background-color: blue;}
+.a2{background-color: rgb(85, 236, 216);}
+.a3{background-color: yellow;}

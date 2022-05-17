@@ -1,0 +1,12 @@
+h1{text-align: center;}
+.field{background-color: rgb(4, 140, 219);}
+legend{text-align: center;}
+h3{margin-bottom: 0px;text-align: center;}
+body{text-align: center;}
+body{font-family: 'Courier New', Courier, monospace;}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+ }
+  .field{display: inline-block;}
+#programming{text-align: left;}
